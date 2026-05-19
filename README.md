@@ -1,55 +1,66 @@
-# Portfólio Gustavo Guanabara
+# Responsive Portfolio Website
 
-Projeto de portfólio pessoal desenvolvido durante o último módulo do curso de HTML5 e CSS3 do **Curso em Vídeo**, ministrado pelo professor Gustavo Guanabara.
+> Responsive developer portfolio website with dark mode and project showcase
 
-## Sobre o Projeto
+![Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Badge](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square\&logo=fontawesome\&logoColor=white)
+![Badge](https://img.shields.io/badge/Responsive_Design-000000?style=flat-square\&logo=css3\&logoColor=white)
+![Badge](https://img.shields.io/badge/License-MIT-yellow?style=flat-square\&logo=open-source-initiative\&logoColor=white)
 
-Este é um site de portfólio responsivo que apresenta informações profissionais, habilidades, formação acadêmica e projetos de um desenvolvedor. O projeto foi construído utilizando apenas **HTML5**, **CSS3** e **JavaScript**, sem frameworks ou bibliotecas externas para o layout.
+---
 
-## Estrutura do Site
+## 📌 Overview
 
-- **Perfil**: Foto, nome, descrição e links para redes sociais
-- **Apresentação**: Vídeo do YouTube integrado
-- **Habilidades**: Barras de progresso mostrando competências técnicas e interpessoais
-- **Formação**: Lista chronológica de cursos e especializações
-- **Projetos**: Galeria de 6 projetos com imagens e descrições
+This project is a responsive personal portfolio website developed during the final module of the HTML5 and CSS3 course from Curso em Vídeo.
+The website showcases professional information, technical skills, academic background, and featured projects using a clean and modern interface.
+It was built using only HTML5, CSS3, and JavaScript, without external frontend frameworks, focusing on responsive layouts, animations, and interactive features such as dark mode switching.
 
-## Tecnologias Utilizadas
+## 🛠️ Technologies
 
-- **HTML5**: Estrutura semântica do site
-- **CSS3**: Estilização, layout responsivo, variáveis CSS, transições e animações
-- **JavaScript**: Funcionalidades interativas (alternar tema claro/escuro)
-- **Font Awesome**: Ícones para navegação e redes sociais
+* **HTML5** — Semantic structure and content organization
+* **CSS3** — Responsive layouts, animations, transitions, and visual styling
+* **JavaScript** — Interactive functionality and theme switching
+* **Font Awesome** — Icons for navigation and social media links
+* **Responsive Design** — Adaptive layouts for different screen sizes
 
-## Como Executar
+## 📁 Project Structure
 
-1. Clone o repositório ou baixe os arquivos
-2. Abra o arquivo `index.html` em qualquer navegador web
-3. Não é necessário instalar dependências ou executar servidores
-
-## Estrutura de Arquivos
-
-```
-projeto-portfolio/
-├── index.html          # Arquivo principal
+```bash id="w9f3kn"
+.
+├── index.html              # Main website page
 ├── estilos/
-│   └── style.css       # Arquivo de estilos
+│   └── style.css           # Main stylesheet
+│
 ├── scripts/
-│   └── script.js       # Arquivo de scripts
-├── imagens/            # Imagens do projeto
-├── favicon.svg        # Ícone do site
-└── README.md          # Este arquivo
+│   └── script.js           # Interactive functionalities
+│
+├── imagens/                # Project images and assets
+├── favicon.svg             # Website favicon
+│
+├── README.md               # Project documentation
+└── LICENSE                 # Project license
 ```
 
-## Recursos
+## 🚀 Getting Started
 
-- Layout responsivo para diferentes tamanhos de tela
-- Tema claro/escuro com alternância via JavaScript
-- Animações e transições suaves
-- Vídeo integrado do YouTube
-- Barras de progresso animadas
-- Seções expansíveis com detalhes dos projetos
+Clone the repository:
 
-## Licença
+```bash id="x2m7vp"
+git clone https://github.com/LuizBMJ/responsive-portfolio-website.git
+```
 
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Navigate to the project folder:
+
+```bash id="f6q1sl"
+cd responsive-portfolio-website
+```
+
+Open the `index.html` file in any modern web browser to run the project.
+
+No dependencies or additional installations are required.
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
